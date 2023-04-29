@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "6b669ec6d2ca7db5da9eea26a1bd87c74932e432037bfe6b3c010230f03b3fbd"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
